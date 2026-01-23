@@ -1,73 +1,117 @@
-.
-├── Computer_Vision
-│   ├── CV01
-│   │   └── README.md
-│   ├── CV02
-│   │   └── README.md
-│   └── CV03
-│       └── README.md
-├── Data_Analysis
-│   ├── DA01
-│   │   └── README.md
-│   └── DA02
-│       └── README.md
-├── Deployment
-│   ├── Contents
-│   │   └── README.md
-│   └── Final_Code
-│       └── README.md
-├── LLM_Application
-│   ├── LLM01
-│   │   └── README.md
-│   ├── LLM02
-│   │   └── README.md
-│   ├── LLM03
-│   │   └── README.md
-│   ├── LLM04
-│   │   └── README.md
-│   └── LLM05
-│       └── README.md
-├── MLOps
-│   ├── MLOps01
-│   │   └── README.md
-│   ├── MLOps02
-│   │   └── README.md
-│   ├── MLOps03
-│   │   └── README.md
-│   ├── MLOps04
-│   │   └── README.md
-│   └── MLOps05
-│       └── README.md
-├── Main_Quest
-│   ├── Quest01
-│   │   └── README.md
-│   ├── Quest02
-│   │   └── README.md
-│   ├── Quest03
-│   │   └── README.md
-│   ├── Quest04
-│   │   └── README.md
-│   └── Quest05
-│       └── README.md
-├── NLP
-│   ├── NLP01
-│   │   └── README.md
-│   ├── NLP02
-│   │   └── README.md
-│   ├── NLP03
-│   │   └── README.md
-│   ├── NLP04
-│   │   └── README.md
-│   └── NLP05
-│       └── README.md
-└── Python
-    ├── Py01
-    │   └── README.md
-    ├── Py02
-    │   └── README.md
-    ├── Py03
-    │   └── README.md
-    └── Py04
-        └── README.md
+# AIFEL_quest_eng
 
-40 directories, 31 files
+* AIFEL 과정을 진행하는 프로젝트, 파이러리 등을 관리하는 Repository입니다.
+* 기본적인 틀을 제공하며, 파일이나 폴더를 수정/업로드하여 사용합니다.
+
+레포구조: 
+```
+AIFFEL_quest_eng
+├── Computer_Vision
+│   ├── CV01
+│   │   ├── README.md
+│   │   └── .ipynb
+│   ├── CV02
+│   │   ├── README.md
+│   │   └── .ipynb
+│   └── CV03
+│       ├── README.md
+│       └── .ipynb
+├── Data_Analysis
+│   ├── DA01
+│   │   ├── README.md
+│   │   └── .ipynb
+│   └── DA02
+│       ├── README.md
+│       └── .ipynb
+├── Deployment
+│   ├── Contents
+│   │   ├── README.md
+│   │   └── .ipynb
+│   └── Final_Code
+│       ├── README.md
+│       └── .ipynb
+├── LLM_Application
+│   ├── LLM01
+│   │   ├── README.md
+│   │   └── .ipynb
+│   ├── LLM02
+│   │   ├── README.md
+│   │   └── .ipynb
+│   ├── LLM03
+│   │   ├── README.md
+│   │   └── .ipynb
+│   ├── LLM04
+│   │   ├── README.md
+│   │   └── .ipynb
+│   └── LLM05
+│       ├── README.md
+│       └── .ipynb
+├── MLOps
+│   ├── MLOps01
+│   │   ├── README.md
+│   │   └── .ipynb
+│   ├── MLOps02
+│   │   ├── README.md
+│   │   └── .ipynb
+│   ├── MLOps03
+│   │   ├── README.md
+│   │   └── .ipynb
+│   ├── MLOps04
+│   │   ├── README.md
+│   │   └── .ipynb
+│   ├── MLOps05
+│   │   ├── README.md
+│   │   └── .ipynb
+│   ├── MLOps06
+│   │   ├── README.md
+│   │   └── .ipynb
+│   └── MLOps07
+│       ├── README.md
+│       └── .ipynb
+├── Main_Quest
+│   ├── Quest01
+│   │   ├── README.md
+│   │   └── .ipynb
+│   ├── Quest02
+│   │   ├── README.md
+│   │   └── .ipynb
+│   ├── Quest03
+│   │   ├── README.md
+│   │   └── .ipynb
+│   ├── Quest04
+│   │   ├── README.md
+│   │   └── .ipynb
+│   └── Quest05
+│       ├── README.md
+│       └── .ipynb
+├── NLP
+│   ├── NLP01
+│   │   ├── README.md
+│   │   └── .ipynb
+│   ├── NLP02
+│   │   ├── README.md
+│   │   └── .ipynb
+│   ├── NLP03
+│   │   ├── README.md
+│   │   └── .ipynb
+│   ├── NLP04
+│   │   ├── README.md
+│   │   └── .ipynb
+│   └── NLP05
+│       ├── README.md
+│       └── .ipynb
+├── Python
+│   ├── Py01
+│   │   ├── README.md
+│   │   └── .ipynb
+│   ├── Py02
+│   │   ├── README.md
+│   │   └── .ipynb
+│   ├── Py03
+│   │   ├── README.md
+│   │   └── .ipynb
+│   └── Py04
+│       ├── README.md
+│       └── .ipynb
+└── README.md
+```
