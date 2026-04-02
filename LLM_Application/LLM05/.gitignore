@@ -1,0 +1,29 @@
+# 모델 가중치 (용량 크고 재현 가능하므로 제외)
+models/housing_model.pth
+models/mnist_state_dict.pth
+
+# 전처리 파라미터는 포함 (경량 JSON이므로 포함)
+# models/housing_preprocessing.json  ← 이건 올림
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# 가상환경
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
